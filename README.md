@@ -12,4 +12,4 @@ HTML5: For creating the structure and content of the website.
 CSS3: For styling and layout design.
 
 # HOW TO USE
-Link[]
+Link[https://raja4552g.github.io/Reester-simple-website/]
