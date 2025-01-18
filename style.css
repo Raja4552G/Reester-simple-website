@@ -1,0 +1,106 @@
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.section-two {
+    display: inline-block;
+    border: solid black 3px;
+    background-color: beige;
+
+}
+
+.section-three {
+    display: inline-block;
+    border: solid black 3px;
+    background-color: beige;
+}
+
+.section-four {
+    display: inline-block;
+    border: solid black 3px;
+    background-color: beige;
+
+}
+
+.section-five {
+    display: inline-block;
+    border: solid black 3px;
+    background-color: beige;
+}
+
+.container {
+    text-align: center;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.section-two__button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.section-three__button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.section-four__button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.section-five__button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.section-two__img {
+    height: 300px;
+    width: 240px;
+}
+
+.section-three__img {
+    height: 300px;
+    width: 240px;
+}
+
+.section-four__img {
+    height: 300px;
+    width: 240px;
+}
+
+.section-five__img {
+    height: 300px;
+    width: 240p;
+}
+
+.one__button {
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.one {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    text-align: center;
+}
